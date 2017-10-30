@@ -1,0 +1,22 @@
+{
+  "name": "node-tools",
+  "version": "1.0.0",
+  "description": "node tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zyw327/node-tools.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "zyw",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zyw327/node-tools/issues"
+  },
+  "homepage": "https://github.com/zyw327/node-tools#readme"
+}
