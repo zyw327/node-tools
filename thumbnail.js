@@ -1,4 +1,4 @@
-const ImageOper = require('./image');
+const ImageOper = require('./lib/image');
 
 let img = new ImageOper();
 img.readImage(__dirname + '/4.jpg').then((data) => {
