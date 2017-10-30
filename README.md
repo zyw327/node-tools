@@ -4,3 +4,9 @@
 const mkdir = require('./mkdir');
 mkdir('./a/b/c/d/f');
 ```
+### 递归删除文件夹及文件
+
+```javascript
+const rmdir = require('./rmdir');
+rmdir('./a');
+```
