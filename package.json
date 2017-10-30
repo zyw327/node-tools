@@ -3,6 +3,11 @@
   "version": "1.0.0",
   "description": "node tools",
   "main": "index.js",
+  "dependencies": {
+    "canvas": "^1.6.7",
+    "request": "^2.83.0"
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "node index.js"
   },
